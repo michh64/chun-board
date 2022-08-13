@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChunBoard", "ChunBoard\ChunBoard.csproj", "{7E039ED1-0B17-43A1-BD76-6DF75043897D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chun-board", "ChunBoard\chun-board.csproj", "{7E039ED1-0B17-43A1-BD76-6DF75043897D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
